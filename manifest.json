@@ -1,0 +1,80 @@
+{
+  "name": "Saas Test",
+  "short_name": "Saas Test",
+  "start_url": "/",
+  "theme_color": "rgb(22, 159, 142)",
+  "background_color": "rgb(22, 159, 142)",
+  "display": "standalone",
+  "orientation": "portrait",
+  "gcm_sender_id": "482941778795",
+  "icons": [
+    {
+      "sizes": "120x120",
+      "src": "https://beezer-img-storage.s3.amazonaws.com/images/demoapp/icons/app_icon_120-d464a935-eb0a-4185-99bb-8833a525def3.png",
+      "type": "image/png"
+    },
+    {
+      "sizes": "144x144",
+      "src": "https://beezer-img-storage.s3.amazonaws.com/images/demoapp/icons/app_icon_144-9135f996-77d4-404b-bea8-cc9f20a61087.png",
+      "type": "image/png"
+    },
+    {
+      "sizes": "152x152",
+      "src": "https://beezer-img-storage.s3.amazonaws.com/images/demoapp/icons/app_icon_152-baf80f1b-7ae7-4fb8-83b2-f77b30c334d5.png",
+      "type": "image/png"
+    },
+    {
+      "sizes": "167x167",
+      "src": "https://beezer-img-storage.s3.amazonaws.com/images/demoapp/icons/app_icon_167-a4ce0a3e-38ca-4bfc-9c89-400eb67ef2c9.png",
+      "type": "image/png"
+    },
+    {
+      "sizes": "180x180",
+      "src": "https://beezer-img-storage.s3.amazonaws.com/images/demoapp/icons/app_icon_180-88d76fb3-0c47-4c83-a37d-1b519a771a0c.png",
+      "type": "image/png"
+    },
+    {
+      "sizes": "192x192",
+      "src": "https://beezer-img-storage.s3.amazonaws.com/images/demoapp/icons/app_icon_192-41a70def-b261-46cb-8666-c402189ae9b4.png",
+      "type": "image/png"
+    },
+    {
+      "sizes": "36x36",
+      "src": "https://beezer-img-storage.s3.amazonaws.com/images/0dae0c28-dc13-43f9-9a4d-1677d6891c6c.png",
+      "type": "image/png"
+    },
+    {
+      "sizes": "48x48",
+      "src": "https://beezer-img-storage.s3.amazonaws.com/images/demoapp/icons/app_icon_48-7111a5d4-d00a-4c4b-b590-97c5d012f517.png",
+      "type": "image/png"
+    },
+    {
+      "sizes": "512x512",
+      "src": "https://beezer-img-storage.s3.amazonaws.com/images/demoapp/icons/app_icon_512-332aef6e-77e8-47fa-a889-0d029a88b3a3.png",
+      "type": "image/png"
+    },
+    {
+      "sizes": "60x60",
+      "src": "https://beezer-img-storage.s3.amazonaws.com/images/e77481ec-dff6-4b1b-bc5d-ce0b071acf9f.png",
+      "type": "image/png"
+    },
+    {
+      "sizes": "72x72",
+      "src": "https://beezer-img-storage.s3.amazonaws.com/images/demoapp/icons/app_icon_72-06201b13-c800-409b-bd9d-9c097d1b1b15.png",
+      "type": "image/png"
+    },
+    {
+      "sizes": "76x76",
+      "src": "https://beezer-img-storage.s3.amazonaws.com/images/220d2d7c-89da-4e94-ba03-34d1fec88bd2.png",
+      "type": "image/png"
+    },
+    {
+      "sizes": "96x96",
+      "src": "https://beezer-img-storage.s3.amazonaws.com/images/demoapp/icons/app_icon_96-eb6a5e98-bcc1-46e8-a06d-66e68b4b9e39.png",
+      "type": "image/png"
+    }
+  ],
+  "url": "https://appzer-saas-test.netlify.app/",
+  "lang": "",
+  "screenshots": []
+}
